@@ -1,5 +1,7 @@
 # hello.py
 
-print("hi")
+def greet():
+  print("hi")
 
 # main
+greet()
